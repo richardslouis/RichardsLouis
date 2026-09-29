@@ -1,41 +1,73 @@
-R I C H A R D S - L O U I S' - G I T
+# Richards Louis
+
+**Founder, product builder, and software creator.**
+
+I build products across AI, web, desktop, mobile, and browser platforms through projects associated with **Richiesoft**, **ILRLabs**, and **Denebsky**.
+
+- 🌐 Founder & CEO of [Doifoo](https://doifoo.com)
+- 🧭 Interested in AI, travel technology, product strategy, and human-centered design
+- 🛠️ Working across C#, JavaScript, Java, PHP, HTML, CSS, and C
+- 🤝 Open to thoughtful collaborations on useful, scalable products
+- 📫 [Email](mailto:richardslouis@doifoo.com) · [LinkedIn](https://linkedin.com/in/richardslouis)
 
 ---
 
-## Hi there! 👋
+## Project directory
 
-I’m Richards Louis, the Founder & CEO of **[Doifoo](https://doifoo.com)**, where we're redefining travel experiences with cutting-edge AI technology. With a background as a Senior Product Manager at AirAsia and a passion for travel tech, I'm on a mission to build innovative solutions that make traveling smarter and more seamless.
+A curated index of my personal and studio repositories. Organization repositories are intentionally maintained separately.
 
-- **👀 Interests:**  
-  - Travel Technology & AI Innovation
-  - Product Management & Business Strategy
-  - Human-Centered Design
-  - Exploring new travel destinations
+### Windows applications
 
-- **🌱 Currently Learning:**  
-  - Advanced Machine Learning Techniques
-  - Cloud Infrastructure & Real-Time Data Processing
-  - New advancements in the travel tech industry
+| Project | Focus | Language |
+|---|---|---|
+| [Adpotbox Analytics](https://github.com/richardslouis/Adpotbox-Analytics-windows-11) | Analytics app · ILRLabs | C# |
+| [Adpotbox App](https://github.com/richardslouis/Adpotbox-App-Windows-11) | Core app · ILRLabs | JavaScript |
+| [Adpotbox Business](https://github.com/richardslouis/Adpotbox-Business-App-Windows-11) | Business app · ILRLabs | C# |
+| [Adpotbox Doers](https://github.com/richardslouis/Adpotbox-Doers-App-Windows-11) | Doers app · ILRLabs | C# |
+| [Adpotbox Prime](https://github.com/richardslouis/Adpotbox-Prime-App-Windows-11) | Prime app · ILRLabs | C# |
+| [Adpotbox Publishers](https://github.com/richardslouis/Adpotbox-Publishers-App-Windows-11) | Publishers app · ILRLabs | C# |
+| [Archive Codes](https://github.com/richardslouis/Archive-Codes-App-Windows-11) | Code archive · Richiesoft | C# |
+| [Clothing Mag](https://github.com/richardslouis/Clothing-Mag-App-Windows-11) | Magazine app · Richiesoft | C# |
+| [Eptro](https://github.com/richardslouis/Eptro-App-Windows-11) | Desktop app · Richiesoft | C# |
+| [Finiup Mag](https://github.com/richardslouis/Finiup-Mag-App-Windows-11) | Magazine app · Richiesoft | C# |
+| [Glueping Mag](https://github.com/richardslouis/Glueping-Mag-App-Windows-11) | Magazine app · Richiesoft | C# |
+| [Infinitedam](https://github.com/richardslouis/Infinitedam-App-Windows-11) | Desktop app · Denebsky | C# |
+| [Magpoke](https://github.com/richardslouis/Magpoke-App-Windows-11) | Desktop app · Richiesoft | C# |
+| [Paperbooklet](https://github.com/richardslouis/Paperbooklet-App-Windows-11) | Desktop app · Denebsky | C# |
+| [RD Connect](https://github.com/richardslouis/RD-Connect-App-Windows-11) | Connectivity app · Richiesoft | C# |
+| [ZeroBC](https://github.com/richardslouis/ZeroBC-App-Windows-11) | Desktop app · Denebsky | C# |
 
-- **💞️ Looking to Collaborate On:**  
-  - Projects that leverage AI for personalized travel experiences
-  - Building scalable cloud solutions for travel applications
-  - Anything that pushes the boundaries of travel technology
+### Browser extensions and platform apps
 
-- **📫 How to Reach Me:**  
-  - Email: [richardslouis@doifoo.com](mailto:richardslouis@doifoo.com)
-  - LinkedIn: [Richards Louis](https://linkedin.com/in/richardslouis)
+- [Chrome apps](https://github.com/richardslouis/Chrome-apps) · [Edge extensions](https://github.com/richardslouis/Edge-extensions)
+- [Mozilla extensions](https://github.com/richardslouis/Mozilla-extensions) · [Opera extensions](https://github.com/richardslouis/Opera-extensions)
+- [Android apps](https://github.com/richardslouis/Android-apps) · [iOS apps](https://github.com/richardslouis/iOS-apps)
+- [Tizen apps](https://github.com/richardslouis/Tizen-apps) · [Ubuntu apps](https://github.com/richardslouis/Ubuntu-apps)
+- [Windows Phone apps](https://github.com/richardslouis/windows-phone-apps)
 
-- **😄 Pronouns:** He/Him
+### Web, business, and utilities
 
-- **⚡ Fun Fact:**  
-  - I love exploring offbeat destinations and believe that every journey brings a new perspective. When not working on tech, you'll likely find me planning my next travel adventure!
+- [Careers Portal](https://github.com/richardslouis/careers-portal) · PHP business portal
+- [Chat](https://github.com/richardslouis/Chat) · JavaScript conversational project
+- [Richiesoft](https://github.com/richardslouis/Richiesoft) · studio startup
+- [ZeroBC Zizz](https://github.com/richardslouis/ZeroBC-Zizz) · web and crypto address shortener
+- [Doifoo](https://github.com/richardslouis/Doifoo) · Link AI project
 
 ---
 
-This ✨ special ✨ repository is a window into my work and passions. Click the Preview link to take a look at my projects and feel free to connect if you'd like to collaborate or share ideas!
+## How this portfolio is organized
 
-<!---
-richardslouis/richardslouis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Windows applications** are grouped by product family and studio.
+- **Browser and platform projects** are grouped by the ecosystem they target.
+- **Web and business projects** are grouped by their product purpose.
+- Repository names and existing code are preserved; this directory is the navigation layer.
+
+> Doifoo- and Livuut-owned repositories are not included here and remain separate from this personal portfolio.
+
+---
+
+## Featured technologies
+
+`C#` · `JavaScript` · `Java` · `PHP` · `HTML` · `CSS` · `C`
+
+Thanks for visiting. Explore a project, open an issue, or [get in touch](mailto:richardslouis@doifoo.com).
